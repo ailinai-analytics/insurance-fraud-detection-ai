@@ -1,0 +1,1237 @@
+feature,importance
+cat__INCIDENT_SEVERITY_Minor Loss,0.046341054
+cat__CUSTOMER_EDUCATION_LEVEL_Bachelor,0.041839797
+cat__CITY_Fayetteville,0.03579337
+cat__RISK_SEGMENTATION_M,0.03352673
+cat__MARITAL_STATUS_Y,0.032356404
+cat__STATE_CA,0.03149688
+cat__AUTHORITY_CONTACTED_Ambulance,0.029600896
+cat__SOCIAL_CLASS_MI,0.027699396
+cat__HOUSE_TYPE_Mortgage,0.02393363
+cat__INCIDENT_SEVERITY_Total Loss,0.023428757
+cat__RISK_SEGMENTATION_L,0.01804003
+cat__HOUSE_TYPE_Rent,0.014008417
+cat__MARITAL_STATUS_N,0.011106685
+cat__INSURANCE_TYPE_Travel,0.009127358
+cat__SOCIAL_CLASS_LI,0.006952455
+cat__CUSTOMER_EDUCATION_LEVEL_High School,0.0069188913
+cat__INCIDENT_SEVERITY_Major Loss,0.004506531
+cat__INSURANCE_TYPE_Property,0.0042966977
+cat__AUTHORITY_CONTACTED_Police,0.004246537
+cat__CITY_x_Tewksbury,0.0040173484
+cat__INCIDENT_CITY_Millersville,0.0039689993
+cat__CITY_Youngstown,0.0039313086
+cat__INCIDENT_CITY_Woodbury,0.0037953283
+cat__CITY_x_Rutland,0.0037504788
+cat__CITY_y_Alburgh,0.003707586
+cat__CITY_Port Charlotte,0.0035357298
+cat__CITY_y_Revere,0.0034410518
+cat__CITY_y_Brookline,0.0034072876
+cat__INCIDENT_CITY_Revere,0.0033413928
+cat__CITY_y_Thunderbolt,0.0031534792
+cat__INCIDENT_CITY_Guildhall,0.0030364045
+cat__INSURANCE_TYPE_Motor,0.002980541
+cat__INCIDENT_CITY_Severn,0.0029773905
+cat__CITY_y_Farmington,0.0029659749
+cat__INCIDENT_CITY_Atascadero,0.0029594006
+cat__CITY_x_Wheelock,0.002939961
+cat__CUSTOMER_EDUCATION_LEVEL_Masters,0.0029397255
+cat__CITY_Needham,0.0027740547
+cat__STATE_x_MA,0.0026828907
+cat__INSURANCE_TYPE_Health,0.0026664566
+cat__INCIDENT_CITY_Medford,0.0026459566
+cat__INCIDENT_CITY_Livermore,0.002640335
+cat__INCIDENT_CITY_Quincy,0.002615074
+cat__INCIDENT_CITY_Savannah,0.0026070857
+cat__INCIDENT_CITY_San Lorenzo,0.002529688
+cat__CITY_x_Montgomery,0.002521606
+cat__STATE_x_AK,0.0024630276
+cat__CITY_Jeffersontown,0.0024476268
+cat__CITY_y_Colchester,0.0024287687
+cat__CUSTOMER_EDUCATION_LEVEL_PhD,0.0024279281
+cat__CITY_y_Burlington,0.0024127339
+cat__SOCIAL_CLASS_HI,0.0024039638
+cat__STATE_x_MD,0.0023813166
+num__HIGH_CLAIM_FLAG,0.0023795892
+cat__CITY_y_Washington,0.0023785103
+cat__STATE_y_CT,0.0023651572
+cat__INCIDENT_CITY_Louisville,0.002362185
+cat__CITY_y_Waddell,0.0023541998
+cat__INCIDENT_CITY_Elk Grove,0.0023433077
+cat__INCIDENT_CITY_Panama City Beach,0.0023402597
+cat__CITY_y_Oakhurst,0.002334221
+cat__HOUSE_TYPE_Own,0.0023321353
+cat__CITY_Oakland,0.002329954
+cat__EMPLOYMENT_STATUS_Y,0.0023134667
+cat__STATE_x_CA,0.0023105247
+cat__STATE_x_TN,0.002305034
+cat__INCIDENT_STATE_MA,0.00230356
+cat__STATE_CT,0.0023014124
+cat__CITY_y_Vershire,0.0022915623
+cat__STATE_y_MA,0.0022902216
+cat__INCIDENT_CITY_Annapolis,0.0022828276
+cat__CITY_y_Edmond,0.0022820178
+cat__INCIDENT_CITY_Severna Park,0.00228018
+cat__CITY_x_Alameda,0.0022705852
+cat__CITY_Nashville,0.0022671588
+cat__CITY_Savannah,0.0022570607
+cat__INCIDENT_STATE_CO,0.002229666
+cat__CITY_Moore,0.0022258859
+cat__INCIDENT_CITY_Burke,0.0022142148
+cat__CITY_y_Fall River,0.002214116
+cat__INCIDENT_STATE_KY,0.00219203
+cat__CITY_Manchester,0.0021914942
+cat__STATE_MA,0.0021908807
+cat__RISK_SEGMENTATION_H,0.002169912
+cat__CITY_y_Fayetteville,0.0021511302
+cat__CITY_y_Arvada,0.0021392293
+cat__STATE_y_GA,0.0021358235
+cat__CITY_x_Redding,0.0021322716
+cat__CITY_y_Fremont,0.002123182
+cat__CITY_x_King City,0.002120325
+cat__CITY_Livermore,0.0021179032
+cat__CITY_Louisville,0.0021150394
+cat__CITY_y_Glendale,0.0021148813
+cat__STATE_x_CT,0.0021147702
+cat__CITY_x_San Lorenzo,0.0020787208
+cat__CITY_y_Hayward,0.002064848
+cat__STATE_y_AZ,0.0020647931
+cat__STATE_x_FL,0.0020448652
+cat__CITY_x_Burke,0.0020417
+cat__CITY_y_Rancho Palos Verdes,0.0020374716
+cat__STATE_x_OK,0.002013435
+num__POLICY_EFF_DT_YEAR,0.0020131627
+cat__STATE_y_AR,0.0020106179
+cat__CITY_Baldwin Park,0.0020100889
+cat__INCIDENT_STATE_OK,0.002003717
+cat__STATE_GA,0.0020031622
+cat__INCIDENT_CITY_Brookline,0.0020017412
+cat__CITY_y_Dublin,0.0019999242
+cat__STATE_TN,0.001980321
+cat__INCIDENT_STATE_CT,0.0019773555
+cat__INCIDENT_CITY_Thetford,0.0019759876
+cat__STATE_y_CA,0.0019755065
+cat__CITY_x_Peabody,0.0019715142
+cat__INCIDENT_CITY_Moore,0.0019661307
+cat__CITY_y_Alameda,0.0019562056
+cat__INCIDENT_CITY_Hartford,0.0019511612
+cat__CITY_y_Roseville,0.0019502479
+num__REPORT_DELAY_DAYS,0.0019443305
+cat__CITY_x_Van Buren,0.0019441223
+cat__INCIDENT_CITY_Glendale,0.0019404365
+cat__INCIDENT_CITY_Manchester,0.0019313751
+cat__STATE_y_AK,0.0019245509
+cat__CITY_y_Panama City,0.001918224
+cat__CITY_x_Fayetteville,0.0019161447
+cat__INCIDENT_CITY_Port Wentworth,0.0019127238
+cat__CITY_x_Louisville,0.0018996369
+cat__INCIDENT_CITY_Nashville,0.0018958426
+cat__CITY_x_Williston,0.0018766582
+num__LOSS_DT_YEAR,0.0018667391
+cat__INCIDENT_STATE_TN,0.0018602639
+cat__INCIDENT_STATE_AZ,0.0018542474
+cat__INCIDENT_CITY_Vacaville,0.0018531787
+cat__CITY_x_Palmer,0.0018418519
+cat__CITY_y_Savannah,0.0018340483
+cat__STATE_y_OK,0.0018288424
+cat__CITY_Oklahoma City,0.001826485
+cat__INCIDENT_CITY_Oklahoma City,0.0018263119
+cat__INCIDENT_CITY_Crofton,0.0018211012
+cat__CUSTOMER_EDUCATION_LEVEL_MD,0.0018166322
+cat__CITY_Newark,0.0018104549
+num__AGENT_EXPERIENCE_DAYS,0.0018082525
+num__LOSS_DT_MONTH,0.0018079717
+cat__STATE_y_AL,0.001806887
+cat__CITY_x_Falmouth,0.0018063027
+cat__CITY_y_Anchorage,0.0017936442
+cat__INCIDENT_CITY_Lexington,0.001792237
+cat__INCIDENT_CITY_Panama City,0.0017896158
+num__DATE_OF_JOINING_MONTH,0.0017832045
+num__CLAIM_PER_FAMILY,0.0017755709
+num__CLAIM_PER_AGE,0.0017657705
+cat__CITY_x_Oklahoma City,0.0017643359
+cat__CITY_x_Peoria,0.0017620148
+cat__CITY_x_Groton,0.0017617699
+cat__INCIDENT_CITY_Oakland,0.001753194
+cat__INCIDENT_CITY_Montgomery,0.001752449
+num__REPORT_DT_MONTH,0.0017516232
+cat__INCIDENT_CITY_Barre,0.0017493635
+cat__STATE_CO,0.0017471456
+cat__STATE_MD,0.0017464325
+cat__INCIDENT_STATE_AR,0.0017452585
+cat__CITY_Glen Burnie,0.001742004
+num__TXN_DATE_TIME_DAY,0.0017394224
+cat__CITY_Marblehead,0.0017344404
+num__LOSS_DT_DAY,0.0017334273
+cat__INCIDENT_STATE_AL,0.0017295517
+cat__STATE_x_AR,0.00172293
+num__POLICY_AGE_DAYS,0.0017203822
+cat__CITY_y_Groton,0.0017140956
+cat__INCIDENT_CITY_Salem,0.0017101269
+cat__INCIDENT_CITY_Magalia,0.0017080155
+cat__AUTHORITY_CONTACTED_Other,0.0017068905
+cat__STATE_AK,0.0016947795
+cat__INSURANCE_TYPE_Life,0.0016931179
+cat__CITY_x_Harrah,0.0016921106
+cat__STATE_y_DC,0.0016883514
+num__TENURE,0.0016821756
+num__TXN_DATE_TIME_MONTH,0.0016808552
+num__PREMIUM_AMOUNT,0.0016791654
+cat__CITY_y_Manchester,0.0016752819
+num__AGE,0.0016668463
+cat__STATE_x_GA,0.0016567706
+cat__STATE_AZ,0.0016557036
+cat__CUSTOMER_EDUCATION_LEVEL_College,0.001654321
+cat__INCIDENT_STATE_AK,0.0016468244
+cat__CITY_y_Westfield,0.001646041
+num__POLICY_EFF_DT_DAY,0.0016441646
+num__ANY_INJURY,0.0016429239
+cat__STATE_KY,0.0016372991
+cat__STATE_DC,0.0016337656
+cat__CITY_x_Annapolis,0.0016303913
+cat__STATE_y_FL,0.001629097
+num__NIGHT_INCIDENT,0.0016195207
+cat__CITY_y_Severn,0.0016150968
+num__CLAIM_AMOUNT,0.0016129805
+cat__STATE_x_DC,0.0016107617
+cat__STATE_AR,0.0016095695
+cat__CITY_Berkeley,0.0016058808
+cat__CITY_Annapolis,0.001603863
+cat__CITY_x_Livermore,0.0016014986
+num__INCIDENT_HOUR_OF_THE_DAY,0.0015968109
+cat__INCIDENT_CITY_Arvada,0.0015930345
+cat__CITY_Glendale,0.0015880278
+num__CLAIM_TO_PREMIUM_RATIO,0.0015873328
+cat__CITY_y_Panama City Beach,0.0015859887
+cat__STATE_y_VT,0.0015843156
+cat__STATE_x_CO,0.0015774757
+num__DATE_OF_JOINING_DAY,0.0015772658
+cat__CITY_Reading,0.0015750831
+cat__CITY_x_Brimfield,0.0015745313
+num__REPORT_DT_DAY,0.0015678518
+cat__EMPLOYMENT_STATUS_N,0.0015599438
+cat__CITY_Panama City,0.0015513567
+cat__CITY_y_Pooler,0.0015484442
+cat__INCIDENT_CITY_Pooler,0.0015392231
+num__POLICY_EFF_DT_MONTH,0.0015390278
+cat__STATE_VT,0.0015356021
+cat__INCIDENT_STATE_FL,0.0015292437
+cat__INCIDENT_CITY_Castro Valley,0.001521108
+cat__INCIDENT_CITY_Carson,0.0015190567
+cat__INCIDENT_CITY_Cupertino,0.0015166809
+num__TXN_DATE_TIME_YEAR,0.0015134924
+cat__CITY_x_Manchester,0.0015078458
+cat__STATE_x_AZ,0.0015065587
+cat__CITY_Lyndon,0.0015060868
+cat__CITY_x_Nashville,0.0015000897
+cat__CITY_x_Glendale,0.0014893024
+num__REPORT_DT_YEAR,0.0014830466
+cat__CITY_x_Shaftsbury,0.0014813375
+cat__CITY_x_Arvada,0.0014807377
+cat__STATE_y_MD,0.001477875
+cat__CITY_y_Annapolis,0.0014769246
+cat__CITY_y_Castro Valley,0.001473867
+cat__AUTHORITY_CONTACTED_UNKNOWN,0.0014648244
+cat__CITY_y_Bakersfield,0.0014584766
+cat__CITY_y_Woodbury,0.001458043
+cat__CITY_y_Linthicum Heights,0.0014422619
+cat__INCIDENT_CITY_Southport,0.0014380005
+cat__INCIDENT_CITY_Lynn Haven,0.0014354136
+cat__CITY_y_Berkeley,0.0014228869
+cat__CITY_x_Savannah,0.0014226331
+cat__INCIDENT_STATE_VT,0.0014136743
+cat__CITY_y_Montgomery,0.0014081635
+cat__CITY_x_Severna Park,0.0014046878
+cat__CITY_y_Oakland,0.0014020831
+cat__INCIDENT_STATE_CA,0.0013998204
+cat__INCIDENT_CITY_Newton,0.0013948978
+num__NO_OF_FAMILY_MEMBERS,0.0013941424
+cat__CITY_x_Washington,0.0013941254
+cat__INCIDENT_STATE_GA,0.0013919708
+cat__INCIDENT_CITY_Glen Burnie,0.0013900604
+cat__CITY_x_Marshfield,0.001389088
+cat__CITY_Arvada,0.0013880229
+cat__CITY_y_Charlton,0.0013846899
+cat__CITY_Montgomery,0.0013825943
+cat__INCIDENT_CITY_Colchester,0.0013808793
+num__DATE_OF_JOINING_YEAR,0.0013798014
+cat__CITY_y_Oklahoma City,0.001374015
+num__POLICE_REPORT_AVAILABLE,0.0013703853
+cat__CITY_x_Oakland,0.0013703442
+cat__CITY_y_Louisville,0.001369157
+cat__INCIDENT_STATE_DC,0.0013660784
+cat__CITY_x_Norman,0.0013629948
+cat__CITY_Southport,0.0013573735
+cat__STATE_x_AL,0.0013564392
+cat__CITY_Fremont,0.0013559527
+cat__CITY_Anchorage,0.001353948
+cat__CITY_x_Lynn Haven,0.0013536375
+cat__STATE_x_VT,0.0013402321
+cat__STATE_y_TN,0.0013385367
+cat__CITY_y_Norman,0.0013380138
+cat__CITY_y_Nashville,0.0013366042
+cat__CITY_x_Panama City,0.0013335675
+cat__INCIDENT_CITY_Brookfield,0.001329974
+cat__CITY_x_Burlington,0.0013277371
+cat__INCIDENT_CITY_Pleasanton,0.001327142
+cat__CITY_x_Mountain View,0.0013267294
+cat__INCIDENT_CITY_Berkeley,0.0013251319
+cat__CITY_x_UNKNOWN,0.0013202891
+cat__CITY_x_Pooler,0.0013142014
+cat__INCIDENT_CITY_Fremont,0.0013101324
+cat__CITY_x_Milford,0.0013091423
+cat__INCIDENT_CITY_Washington,0.0013054559
+cat__STATE_OK,0.001304918
+cat__CITY_Grass Valley,0.0012950009
+cat__CITY_y_Needham,0.0012838875
+cat__STATE_FL,0.0012810044
+cat__INCIDENT_STATE_MD,0.0012762562
+cat__INCIDENT_CITY_Anchorage,0.001268081
+cat__CITY_x_Montevallo,0.0012541716
+cat__INCIDENT_CITY_Aquinnah,0.0012507123
+cat__CITY_y_Fairfield,0.0012502604
+cat__STATE_x_KY,0.0012499988
+cat__CITY_x_Anchorage,0.0012423343
+cat__INCIDENT_CITY_Bourne,0.0012382836
+cat__CITY_y_Port Wentworth,0.0012273062
+cat__CITY_y_Litchfield Park,0.0012140009
+cat__CITY_Burke,0.0011906786
+cat__CITY_Cupertino,0.0011871407
+cat__INCIDENT_CITY_Warr Acres,0.0011611618
+cat__STATE_AL,0.0011554097
+cat__CITY_y_Pleasanton,0.0011524537
+cat__INCIDENT_CITY_Holyoke,0.0011477141
+cat__INCIDENT_CITY_Everett,0.0011464983
+cat__CITY_Edmond,0.0011447832
+cat__CITY_y_Glen Burnie,0.0011393186
+cat__STATE_y_CO,0.0011297665
+cat__INCIDENT_CITY_Fayetteville,0.0011115952
+cat__CITY_y_Eureka,0.0010743355
+cat__CITY_y_Bloomingdale,0.0010677761
+cat__CUSTOMER_EDUCATION_LEVEL_UNKNOWN,0.0010656915
+cat__INCIDENT_CITY_Pasadena,0.0010625182
+cat__INCIDENT_CITY_Edmond,0.0010589311
+cat__INCIDENT_CITY_Ione,0.0010562852
+cat__CITY_x_Jeffersontown,0.0010551836
+cat__INCIDENT_CITY_Jackson,0.0010506103
+cat__CITY_x_Tyngsborough,0.0010327861
+cat__INCIDENT_CITY_Saint Albans Town,0.0010307267
+cat__CITY_Washington,0.0010279114
+cat__CITY_x_Berkeley,0.0010189186
+cat__INCIDENT_CITY_Boulder,0.0010172442
+cat__STATE_y_KY,0.0010105374
+cat__CITY_y_Aurora,0.0009881865
+cat__CITY_x_Hayward,0.0009870171
+cat__INCIDENT_CITY_Waltham,0.0009658828
+cat__CITY_y_Waitsfield,0.0009598115
+cat__CITY_x_Panama City Beach,0.000959149
+cat__INCIDENT_CITY_Hayward,0.00094657845
+cat__CITY_x_Bakersfield,0.0009398822
+cat__INCIDENT_CITY_Easthampton,0.0009374881
+cat__CITY_x_San Leandro,0.00093674037
+cat__INCIDENT_CITY_Soquel,0.00093598
+cat__CITY_x_Crofton,0.0009149449
+cat__INCIDENT_CITY_Norman,0.00091195916
+cat__CITY_y_Bourne,0.000886122
+cat__INCIDENT_CITY_Deale,0.0008847545
+cat__CITY_x_Fremont,0.0008789259
+cat__CITY_x_Edgewater,0.0008614647
+cat__CITY_y_Lynn Haven,0.0008593706
+cat__CITY_x_Agawam,0.0008578219
+cat__CITY_y_Danville,0.00085766654
+cat__CITY_San Leandro,0.00084184663
+cat__CITY_Union City,0.00083455775
+cat__CITY_Panama City Beach,0.00081892515
+cat__CITY_Pooler,0.0008172113
+cat__CITY_x_Linda,0.00081463245
+cat__CITY_x_Saint Albans City,0.00081251026
+cat__INCIDENT_CITY_Union City,0.00078597065
+cat__CITY_y_Ardmore,0.0007826705
+cat__CITY_y_Crofton,0.0007818873
+cat__CITY_y_Selma,0.00078017096
+cat__INCIDENT_CITY_Shelburne,0.00077759684
+cat__CITY_y_Guthrie,0.00077659136
+cat__CITY_x_Franklin,0.00077078503
+cat__INCIDENT_CITY_Port Charlotte,0.00075583876
+cat__INCIDENT_CITY_San Leandro,0.00075044984
+cat__CITY_x_Edmond,0.0007454152
+cat__INCIDENT_CITY_Reading,0.00074203446
+cat__CITY_x_Waddell,0.0007385569
+cat__CITY_x_Pike Road,0.0007077436
+cat__CITY_Midwest City,0.00070218224
+cat__CITY_x_Dummerston,0.00070199405
+cat__CITY_y_San Leandro,0.0007019479
+cat__CITY_x_Littleton,0.00070028537
+cat__INCIDENT_CITY_Saint Johnsbury,0.0006986018
+cat__CITY_x_Glen Burnie,0.0006936552
+cat__INSURANCE_TYPE_Mobile,0.0006855979
+cat__INCIDENT_CITY_Cambridge,0.00066475343
+cat__CITY_Brentwood,0.0005814365
+cat__INCIDENT_CITY_Mountain Village,0.00057580636
+cat__INCIDENT_CITY_Los Angeles,0.00057213765
+cat__CITY_y_Union City,0.00055076595
+cat__CITY_Alburgh,0.0005435512
+cat__INCIDENT_CITY_San Gabriel,0.00052477117
+cat__INCIDENT_CITY_Roseville,0.0005188758
+cat__INCIDENT_CITY_Alameda,0.00049356505
+cat__CITY_x_San Jose,0.00048511662
+cat__CITY_y_Reading,0.00047916835
+cat__CITY_x_Lithia,0.0004649796
+cat__CITY_x_Litchfield Park,0.00045861496
+cat__CITY_West Sacramento,0.0004551703
+cat__INCIDENT_CITY_Baltimore,0.00044918523
+cat__CITY_y_Severna Park,0.00042297342
+cat__INCIDENT_CITY_Brentwood,0.0003978625
+cat__INCIDENT_CITY_Kenai,0.000369625
+cat__CITY_Hanover,0.00036575907
+cat__CITY_x_Union City,0.00033626676
+cat__CITY_x_Alburgh,8.14942e-05
+cat__CITY_Vacaville,4.6053272e-05
+cat__CITY_x_Newport,4.8083193e-06
+cat__CITY_y_Boxborough,0.0
+cat__CITY_y_Brentwood,0.0
+cat__CITY_y_Duxbury,0.0
+cat__CITY_y_Chicopee,0.0
+cat__CITY_y_Davis,0.0
+cat__CITY_x_Concord,0.0
+cat__CITY_x_Dartmouth,0.0
+cat__INCIDENT_CITY_Yucaipa,0.0
+cat__INCIDENT_CITY_Youngstown,0.0
+cat__CITY_x_Aquinnah,0.0
+cat__CITY_y_Barre,0.0
+cat__INCIDENT_CITY_Yarmouth,0.0
+cat__CITY_x_Aptos,0.0
+cat__CITY_y_Concord,0.0
+cat__INCIDENT_CITY_Worcester,0.0
+cat__CITY_y_Belchertown,0.0
+cat__INCIDENT_CITY_Woodland,0.0
+cat__INCIDENT_CITY_Woodford,0.0
+cat__CITY_y_Conway,0.0
+cat__CITY_x_Davidsonville,0.0
+cat__CITY_y_Crownsville,0.0
+cat__INCIDENT_CITY_Wolcott,0.0
+cat__INCIDENT_CITY_Woburn,0.0
+cat__INCIDENT_CITY_Windsor,0.0
+cat__INCIDENT_CITY_Windham,0.0
+cat__CITY_y_Cupertino,0.0
+cat__INCIDENT_CITY_Winchester,0.0
+cat__CITY_y_Chelmsford,0.0
+cat__CITY_x_Danville,0.0
+cat__CITY_y_Blue Lake,0.0
+cat__CITY_x_Crownsville,0.0
+cat__CITY_y_Auburn,0.0
+cat__CITY_y_Bristol,0.0
+cat__CITY_y_Del City,0.0
+cat__CITY_y_Brockton,0.0
+cat__CITY_y_Dracut,0.0
+cat__CITY_y_Deale,0.0
+cat__CITY_y_Athol,0.0
+cat__CITY_y_Aspen,0.0
+cat__CITY_y_Brooklyn Park,0.0
+cat__CITY_y_Ashland,0.0
+cat__CITY_x_Conway,0.0
+cat__CITY_y_Cambridge,0.0
+cat__CITY_x_Cupertino,0.0
+cat__CITY_y_Capitola,0.0
+cat__CITY_y_Carlsbad,0.0
+cat__CITY_y_Aptos,0.0
+cat__CITY_y_Antioch,0.0
+cat__CITY_y_Carson,0.0
+cat__CITY_y_Baltimore,0.0
+cat__CITY_y_Bethany,0.0
+cat__CITY_y_Barnstable,0.0
+cat__CITY_x_Colchester,0.0
+cat__CITY_y_Bolton,0.0
+cat__CITY_x_Antioch,0.0
+cat__CITY_y_Castleton,0.0
+cat__CITY_Redding,0.0
+cat__INCIDENT_CITY_Wilmington,0.0
+cat__CITY_x_Dedham,0.0
+cat__INCIDENT_CITY_San Jose,0.0
+cat__CITY_x_Derby,0.0
+cat__INCIDENT_CITY_Santa Clara,0.0
+cat__INCIDENT_CITY_Santa Cruz,0.0
+cat__INCIDENT_CITY_Santa Rosa,0.0
+cat__INCIDENT_CITY_Saugus,0.0
+cat__CITY_x_Dennis,0.0
+cat__INCIDENT_CITY_Scituate,0.0
+cat__INCIDENT_CITY_Sebastopol,0.0
+cat__INCIDENT_CITY_Selma,0.0
+cat__CITY_x_Del City,0.0
+cat__INCIDENT_CITY_Shady Side,0.0
+cat__INCIDENT_CITY_Williston,0.0
+cat__INCIDENT_CITY_Shaftsbury,0.0
+cat__INCIDENT_CITY_Sheffield,0.0
+cat__INCIDENT_CITY_Shelburne Falls,0.0
+cat__INCIDENT_CITY_Smartsville,0.0
+cat__INCIDENT_CITY_Soda Springs,0.0
+cat__INCIDENT_CITY_Soldotna,0.0
+cat__INCIDENT_CITY_Somerset,0.0
+cat__INCIDENT_CITY_Somerville,0.0
+cat__INCIDENT_CITY_South Burlington,0.0
+cat__INCIDENT_CITY_South Hadley,0.0
+cat__INCIDENT_CITY_South Lake Tahoe,0.0
+cat__INCIDENT_CITY_San Diego,0.0
+cat__INCIDENT_CITY_Salisbury,0.0
+cat__INCIDENT_CITY_Salinas,0.0
+cat__CITY_x_Dublin,0.0
+cat__CITY_x_East Longmeadow,0.0
+cat__CITY_x_East Haven,0.0
+cat__INCIDENT_CITY_Poultney,0.0
+cat__INCIDENT_CITY_Proctor,0.0
+cat__INCIDENT_CITY_Prospect,0.0
+cat__INCIDENT_CITY_Pueblo,0.0
+cat__INCIDENT_CITY_Pueblo West,0.0
+cat__INCIDENT_CITY_Punta Gorda,0.0
+cat__CITY_x_Duxbury,0.0
+cat__INCIDENT_CITY_Rancho Cordova,0.0
+cat__INCIDENT_CITY_Rancho Palos Verdes,0.0
+cat__INCIDENT_CITY_Randolph,0.0
+cat__INCIDENT_CITY_Readsboro,0.0
+cat__INCIDENT_CITY_Redding,0.0
+cat__INCIDENT_CITY_Redlands,0.0
+cat__INCIDENT_CITY_Richmond,0.0
+cat__INCIDENT_CITY_Riva,0.0
+cat__INCIDENT_CITY_Riverview,0.0
+cat__INCIDENT_CITY_Rohnert Park,0.0
+cat__INCIDENT_CITY_Rutland,0.0
+cat__INCIDENT_CITY_Sacramento,0.0
+cat__INCIDENT_CITY_Saint Albans City,0.0
+cat__INCIDENT_CITY_Saint Matthews,0.0
+cat__INCIDENT_CITY_Springfield,0.0
+cat__INCIDENT_CITY_Stowe,0.0
+cat__INCIDENT_CITY_Stratton,0.0
+cat__INCIDENT_CITY_Wakefield,0.0
+cat__INCIDENT_CITY_Walpole,0.0
+cat__INCIDENT_CITY_Wareham,0.0
+cat__CITY_x_Ardmore,0.0
+cat__INCIDENT_CITY_Waterbury Center,0.0
+cat__INCIDENT_CITY_Watertown,0.0
+cat__INCIDENT_CITY_Weathersfield,0.0
+cat__INCIDENT_CITY_Webster,0.0
+cat__INCIDENT_CITY_West Brattleboro,0.0
+cat__INCIDENT_CITY_West River,0.0
+cat__INCIDENT_CITY_West Sacramento,0.0
+cat__INCIDENT_CITY_West Tisbury,0.0
+cat__INCIDENT_CITY_West Windsor,0.0
+cat__INCIDENT_CITY_Westfield,0.0
+cat__INCIDENT_CITY_Westford,0.0
+cat__INCIDENT_CITY_Westminster,0.0
+cat__INCIDENT_CITY_Westmore,0.0
+cat__INCIDENT_CITY_Westport,0.0
+cat__INCIDENT_CITY_Wheat Ridge,0.0
+cat__INCIDENT_CITY_Wheatland,0.0
+cat__INCIDENT_CITY_Wheelock,0.0
+cat__INCIDENT_CITY_Whitmore,0.0
+cat__INCIDENT_CITY_Wilbraham,0.0
+cat__INCIDENT_CITY_Williamstown,0.0
+cat__INCIDENT_CITY_Walden,0.0
+cat__INCIDENT_CITY_Waitsfield,0.0
+cat__INCIDENT_CITY_Suisun City,0.0
+cat__INCIDENT_CITY_Waddell,0.0
+cat__INCIDENT_CITY_Sutter Creek,0.0
+cat__INCIDENT_CITY_Swanton,0.0
+cat__INCIDENT_CITY_Tahoe City,0.0
+cat__INCIDENT_CITY_Tampa,0.0
+cat__INCIDENT_CITY_Telluride,0.0
+cat__INCIDENT_CITY_Tewksbury,0.0
+cat__INCIDENT_CITY_The Village,0.0
+cat__CITY_x_Deale,0.0
+cat__INCIDENT_CITY_Thunderbolt,0.0
+cat__INCIDENT_CITY_Tollhouse,0.0
+cat__INCIDENT_CITY_Townshend,0.0
+cat__INCIDENT_CITY_Truckee,0.0
+cat__INCIDENT_CITY_Twentynine Palms,0.0
+cat__INCIDENT_CITY_Tybee Island,0.0
+cat__INCIDENT_CITY_Tyndall Air Force Base,0.0
+cat__INCIDENT_CITY_Tyngsborough,0.0
+cat__INCIDENT_CITY_UNKNOWN,0.0
+cat__INCIDENT_CITY_Underhill,0.0
+cat__CITY_x_Davis,0.0
+cat__INCIDENT_CITY_Vallejo,0.0
+cat__INCIDENT_CITY_Van Buren,0.0
+cat__INCIDENT_CITY_Vergennes,0.0
+cat__INCIDENT_CITY_Vershire,0.0
+cat__CITY_y_East Longmeadow,0.0
+cat__CITY_y_Holyoke,0.0
+cat__CITY_y_Edgewater,0.0
+cat__CITY_Castro Valley,0.0
+cat__CITY_x_Boxford,0.0
+cat__CITY_x_Boxborough,0.0
+cat__CITY_x_Bourne,0.0
+cat__CITY_x_Boulder,0.0
+cat__CITY_x_Bolton,0.0
+cat__CITY_x_Blue Lake,0.0
+cat__CITY_x_Bloomingdale,0.0
+cat__CITY_x_Birmingham,0.0
+cat__CITY_x_Billerica,0.0
+cat__CITY_x_Beverly Hills,0.0
+cat__CITY_Severna Park,0.0
+cat__CITY_x_Beverly,0.0
+cat__CITY_x_Bethel,0.0
+cat__CITY_Severn,0.0
+cat__CITY_Selma,0.0
+cat__CITY_Atascadero,0.0
+cat__CITY_Athol,0.0
+cat__CITY_x_Bethany,0.0
+cat__CITY_Bethany,0.0
+cat__CITY_Beverly Hills,0.0
+cat__CITY_Bloomingdale,0.0
+cat__CITY_Boulder,0.0
+cat__CITY_Brockton,0.0
+cat__CITY_x_Braintree,0.0
+cat__CITY_y_Yarmouth,0.0
+cat__CITY_y_Worcester,0.0
+cat__CITY_y_West River,0.0
+cat__CITY_x_Brookline,0.0
+cat__CITY_y_Tybee Island,0.0
+cat__CITY_y_Tyndall Air Force Base,0.0
+cat__CITY_y_Vergennes,0.0
+cat__CITY_x_Brockton,0.0
+cat__CITY_x_Bristol,0.0
+cat__CITY_y_Waltham,0.0
+cat__CITY_x_Brighton,0.0
+cat__CITY_y_Waterbury Center,0.0
+cat__CITY_y_West Brattleboro,0.0
+cat__CITY_y_West Sacramento,0.0
+cat__CITY_y_Woodland,0.0
+cat__CITY_y_West Windsor,0.0
+cat__CITY_x_Brentwood,0.0
+cat__CITY_y_Westminster,0.0
+cat__CITY_y_Westmore,0.0
+cat__CITY_y_Wheat Ridge,0.0
+cat__CITY_y_Winchester,0.0
+cat__CITY_y_Windsor,0.0
+cat__CITY_y_Woburn,0.0
+cat__CITY_Springfield,0.0
+cat__CITY_y_Woodford,0.0
+cat__CITY_Cambridge,0.0
+cat__CITY_Crofton,0.0
+cat__CITY_y_Tewksbury,0.0
+cat__CITY_Dartmouth,0.0
+cat__CITY_Mountain View,0.0
+cat__CITY_x_Auburn,0.0
+cat__CITY_x_Attleboro,0.0
+cat__CITY_x_Athol,0.0
+cat__CITY_Norman,0.0
+cat__CITY_Norwood,0.0
+cat__CITY_x_Atascadero,0.0
+cat__CITY_Odenton,0.0
+cat__CITY_x_Aspen,0.0
+cat__CITY_Oroville,0.0
+cat__CITY_x_Ashland,0.0
+cat__CITY_Pasadena,0.0
+cat__CITY_Paso Robles,0.0
+cat__CITY_Peoria,0.0
+cat__CITY_Piedmont,0.0
+cat__CITY_Plantation,0.0
+cat__CITY_Pleasanton,0.0
+cat__CITY_Plymouth,0.0
+cat__CITY_Salisbury,0.0
+cat__CITY_Rancho Cordova,0.0
+cat__CITY_x_Arnold,0.0
+cat__CITY_Salinas,0.0
+cat__CITY_Readsboro,0.0
+cat__CITY_x_Aurora,0.0
+cat__CITY_Santa Rosa,0.0
+cat__CITY_Milton,0.0
+cat__CITY_x_Barnstable,0.0
+cat__CITY_El Cerrito,0.0
+cat__CITY_Falmouth,0.0
+cat__CITY_x_Belvidere,0.0
+cat__CITY_x_Belchertown,0.0
+cat__CITY_x_Barre,0.0
+cat__CITY_Groton,0.0
+cat__CITY_Hartford,0.0
+cat__CITY_Hayward,0.0
+cat__CITY_Homer,0.0
+cat__CITY_Jackson,0.0
+cat__CITY_Lawrence,0.0
+cat__CITY_Millersville,0.0
+cat__CITY_Lexington,0.0
+cat__CITY_Litchfield Park,0.0
+cat__CITY_x_Barnard,0.0
+cat__CITY_x_Baltimore,0.0
+cat__CITY_x_Arlington,0.0
+cat__CITY_Lynn Haven,0.0
+cat__CITY_Mammoth Lakes,0.0
+cat__CITY_x_Baldwin Park,0.0
+cat__CITY_McCrory,0.0
+cat__CITY_Mexico Beach,0.0
+cat__CITY_y_Thetford,0.0
+cat__CITY_y_Tampa,0.0
+cat__CITY_x_Chicopee,0.0
+cat__CITY_y_Midwest City,0.0
+cat__CITY_y_Hesperia,0.0
+cat__CITY_y_Holbrook,0.0
+cat__CITY_y_Hurstbourne Acres,0.0
+cat__CITY_y_Hyde Park,0.0
+cat__CITY_y_Lexington,0.0
+cat__CITY_Worcester,0.0
+cat__CITY_y_Littleton,0.0
+cat__CITY_y_Livermore,0.0
+cat__CITY_Wilmington,0.0
+cat__CITY_y_Lowell,0.0
+cat__CITY_y_Ludlow,0.0
+cat__CITY_y_Lyndon,0.0
+cat__CITY_Watertown,0.0
+cat__CITY_y_Magalia,0.0
+cat__CITY_y_Mammoth Lakes,0.0
+cat__CITY_x_Castleton,0.0
+cat__CITY_y_Mansfield,0.0
+cat__CITY_y_Medford,0.0
+cat__CITY_Tybee Island,0.0
+cat__CITY_y_Melrose,0.0
+cat__CITY_y_Mesa,0.0
+cat__CITY_y_Mexico Beach,0.0
+cat__CITY_y_Middleborough,0.0
+cat__CITY_x_Castro Valley,0.0
+cat__CITY_y_Haverhill,0.0
+cat__CITY_y_Hartland,0.0
+cat__CITY_y_Freetown,0.0
+cat__CITY_y_El Cerrito,0.0
+cat__CITY_y_Escondido,0.0
+cat__CITY_y_Essex,0.0
+cat__CITY_y_Evans,0.0
+cat__CITY_y_Evergreen,0.0
+cat__CITY_x_Chico,0.0
+cat__CITY_x_Chester,0.0
+cat__CITY_x_Chelsea,0.0
+cat__CITY_y_Fitchburg,0.0
+cat__CITY_y_Framingham,0.0
+cat__CITY_x_Chelmsford,0.0
+cat__CITY_y_Hartford,0.0
+cat__CITY_y_Fresno,0.0
+cat__CITY_y_Garden City,0.0
+cat__CITY_y_Gardner,0.0
+cat__CITY_y_Gibson Island,0.0
+cat__CITY_x_Charlton,0.0
+cat__CITY_y_Goodlettsville,0.0
+cat__CITY_y_Grass Valley,0.0
+cat__CITY_y_Greeley,0.0
+cat__CITY_y_Greensboro,0.0
+cat__CITY_x_Charlotte,0.0
+cat__CITY_y_Middleton,0.0
+cat__CITY_y_Millersville,0.0
+cat__CITY_y_Tahoe City,0.0
+cat__CITY_Twentynine Palms,0.0
+cat__CITY_y_Piedmont,0.0
+cat__CITY_y_Pittsfield,0.0
+cat__CITY_x_Capitola,0.0
+cat__CITY_y_Port Charlotte,0.0
+cat__CITY_y_Poultney,0.0
+cat__CITY_y_Pueblo West,0.0
+cat__CITY_y_Quincy,0.0
+cat__CITY_x_Cambridge,0.0
+cat__CITY_x_Calhoun,0.0
+cat__CITY_y_Richford,0.0
+cat__CITY_x_Calera,0.0
+cat__CITY_y_Saint Albans City,0.0
+cat__CITY_y_Saint Johnsbury,0.0
+cat__CITY_y_San Gabriel,0.0
+cat__CITY_x_Brooklyn Park,0.0
+cat__CITY_y_Shaftsbury,0.0
+cat__CITY_y_Shelburne Falls,0.0
+cat__CITY_y_South Lake Tahoe,0.0
+cat__CITY_y_Southport,0.0
+cat__CITY_y_Stratton,0.0
+cat__CITY_y_Sutter Creek,0.0
+cat__CITY_y_Swanton,0.0
+cat__CITY_Telluride,0.0
+cat__CITY_y_Peoria,0.0
+cat__CITY_y_Peabody,0.0
+cat__CITY_y_Pawlet,0.0
+cat__CITY_y_Noble,0.0
+cat__CITY_y_Montpelier,0.0
+cat__CITY_y_Moore,0.0
+cat__CITY_y_Moretown,0.0
+cat__CITY_y_Morro Bay,0.0
+cat__CITY_y_Mountain View,0.0
+cat__CITY_y_New Bedford,0.0
+cat__CITY_y_Newark,0.0
+cat__CITY_y_Newfane,0.0
+cat__CITY_y_Newport,0.0
+cat__CITY_y_Nichols Hills,0.0
+cat__CITY_y_North Reading,0.0
+cat__CITY_y_Pasadena,0.0
+cat__CITY_y_Norwood,0.0
+cat__CITY_x_Castaic,0.0
+cat__CITY_Townshend,0.0
+cat__CITY_y_Odenton,0.0
+cat__CITY_Thunderbolt,0.0
+cat__CITY_y_Orange,0.0
+cat__CITY_y_Oroville,0.0
+cat__CITY_y_Palmer,0.0
+cat__CITY_x_Carson,0.0
+cat__CITY_x_Carlsbad,0.0
+cat__INCIDENT_CITY_Plymouth,0.0
+cat__CITY_x_Ludlow,0.0
+cat__INCIDENT_CITY_Plantation,0.0
+cat__CITY_x_Walpole,0.0
+cat__CITY_x_Truckee,0.0
+cat__CITY_x_Twentynine Palms,0.0
+cat__CITY_x_Tybee Island,0.0
+cat__CITY_x_Tyndall Air Force Base,0.0
+cat__CITY_x_Underhill,0.0
+cat__CITY_x_Vacaville,0.0
+cat__CITY_x_Vallejo,0.0
+cat__CITY_x_Lexington,0.0
+cat__CITY_x_Vergennes,0.0
+cat__CITY_x_Vershire,0.0
+cat__CITY_x_Waitsfield,0.0
+cat__CITY_x_Wakefield,0.0
+cat__CITY_x_Waltham,0.0
+cat__CITY_x_Westmore,0.0
+cat__CITY_x_Warr Acres,0.0
+cat__CITY_x_Warren,0.0
+cat__CITY_x_Waterbury Center,0.0
+cat__CITY_x_Watertown,0.0
+cat__CITY_x_Weathersfield,0.0
+cat__CITY_x_Webster,0.0
+cat__CITY_x_West Brattleboro,0.0
+cat__CITY_x_West River,0.0
+cat__CITY_x_West Sacramento,0.0
+cat__CITY_x_West Tisbury,0.0
+cat__CITY_x_West Windsor,0.0
+cat__CITY_x_Westford,0.0
+cat__CITY_x_Townshend,0.0
+cat__CITY_x_Town of Rockingham,0.0
+cat__CITY_x_Tollhouse,0.0
+cat__CITY_x_Thunderbolt,0.0
+cat__CITY_x_Shelburne,0.0
+cat__CITY_x_Shelburne Falls,0.0
+cat__CITY_x_Smartsville,0.0
+cat__CITY_x_Soda Springs,0.0
+cat__CITY_x_Soldotna,0.0
+cat__CITY_x_Somerset,0.0
+cat__CITY_x_Somerville,0.0
+cat__CITY_x_Soquel,0.0
+cat__CITY_x_South Burlington,0.0
+cat__CITY_x_South Hadley,0.0
+cat__CITY_x_South Lake Tahoe,0.0
+cat__CITY_x_Southport,0.0
+cat__CITY_x_Spencer,0.0
+cat__CITY_x_Springfield,0.0
+cat__CITY_x_Stowe,0.0
+cat__CITY_x_Stratton,0.0
+cat__CITY_x_Suisun City,0.0
+cat__CITY_x_Sun City Center,0.0
+cat__CITY_x_Sutter Creek,0.0
+cat__CITY_x_Swanton,0.0
+cat__CITY_x_Tampa,0.0
+cat__CITY_x_Telluride,0.0
+cat__CITY_x_Lincoln,0.0
+cat__CITY_x_The Village,0.0
+cat__CITY_x_Thetford,0.0
+cat__CITY_x_Westminster,0.0
+cat__CITY_x_Westport,0.0
+cat__CITY_x_Gambrills,0.0
+cat__CITY_x_Hadley,0.0
+cat__CITY_x_Holyoke,0.0
+cat__CITY_x_Holbrook,0.0
+cat__CITY_x_Hingham,0.0
+cat__CITY_x_Hinesburg,0.0
+cat__CITY_x_Highgate,0.0
+cat__CITY_x_Haverhill,0.0
+cat__CITY_x_Harwich,0.0
+cat__CITY_x_Hartland,0.0
+cat__CITY_x_Hartford,0.0
+cat__CITY_x_Hardwick,0.0
+cat__CITY_x_Hanover,0.0
+cat__CITY_x_Hanford,0.0
+cat__CITY_x_Guthrie,0.0
+cat__CITY_x_Wheat Ridge,0.0
+cat__CITY_x_Guilford,0.0
+cat__CITY_x_Guildhall,0.0
+cat__CITY_x_Greensboro,0.0
+cat__CITY_x_Greenfield,0.0
+cat__CITY_x_Greeley,0.0
+cat__CITY_x_Grass Valley,0.0
+cat__CITY_x_Grand Junction,0.0
+cat__CITY_x_Goodlettsville,0.0
+cat__CITY_x_Gloucester,0.0
+cat__CITY_x_Gibson Island,0.0
+cat__CITY_x_Gardner,0.0
+cat__CITY_x_Gardena,0.0
+cat__CITY_x_Homer,0.0
+cat__CITY_x_Hubbardston,0.0
+cat__CITY_x_Huntington,0.0
+cat__CITY_x_Hurstbourne Acres,0.0
+cat__CITY_x_Wheatland,0.0
+cat__CITY_x_Lawrence,0.0
+cat__CITY_x_Whitmore,0.0
+cat__CITY_x_Wilbraham,0.0
+cat__CITY_x_Williamstown,0.0
+cat__CITY_x_Laurel,0.0
+cat__CITY_x_Wilmington,0.0
+cat__CITY_x_Winchester,0.0
+cat__CITY_x_Windsor,0.0
+cat__CITY_x_Woburn,0.0
+cat__CITY_x_Wolcott,0.0
+cat__CITY_x_Woodbury,0.0
+cat__CITY_x_Woodford,0.0
+cat__CITY_x_Woodland,0.0
+cat__CITY_x_Worcester,0.0
+cat__CITY_x_Yarmouth,0.0
+cat__CITY_x_Youngstown,0.0
+cat__CITY_x_Yucaipa,0.0
+cat__CITY_x_Kenai,0.0
+cat__CITY_x_Jessup,0.0
+cat__CITY_x_Jackson,0.0
+cat__CITY_x_Ione,0.0
+cat__CITY_x_Inverness,0.0
+cat__CITY_x_Indian Springs Village,0.0
+cat__CITY_x_Hyde Park,0.0
+cat__CITY_x_Sheffield,0.0
+cat__CITY_x_Shady Side,0.0
+cat__CITY_x_Severn,0.0
+cat__CITY_x_New Bedford,0.0
+cat__CITY_x_Milton,0.0
+cat__CITY_x_Monte Rio,0.0
+cat__CITY_x_Lowell,0.0
+cat__CITY_x_Montpelier,0.0
+cat__CITY_x_Moore,0.0
+cat__CITY_x_Moretown,0.0
+cat__CITY_x_Morristown,0.0
+cat__CITY_x_Morro Bay,0.0
+cat__CITY_x_Mount Juliet,0.0
+cat__CITY_x_Mount Tabor,0.0
+cat__CITY_x_Mountain Village,0.0
+cat__CITY_x_Needham,0.0
+cat__CITY_x_New Haven,0.0
+cat__CITY_x_Selma,0.0
+cat__CITY_x_Newark,0.0
+cat__CITY_x_Newfane,0.0
+cat__CITY_x_Newton,0.0
+cat__CITY_x_Nichols Hills,0.0
+cat__CITY_x_Noble,0.0
+cat__CITY_x_North Beach,0.0
+cat__CITY_x_North Little Rock,0.0
+cat__CITY_x_North Reading,0.0
+cat__CITY_x_Northfield,0.0
+cat__CITY_x_Norton,0.0
+cat__CITY_x_O'Neals,0.0
+cat__CITY_x_Oak Bluffs,0.0
+cat__CITY_x_Millis,0.0
+cat__CITY_x_Millersville,0.0
+cat__CITY_x_Midwest City,0.0
+cat__CITY_x_Middleton,0.0
+cat__CITY_x_Lyndon,0.0
+cat__CITY_x_Lynn,0.0
+cat__CITY_x_Lynnfield,0.0
+cat__CITY_x_Madera,0.0
+cat__CITY_x_Magalia,0.0
+cat__CITY_x_Maidstone,0.0
+cat__CITY_x_Mammoth Lakes,0.0
+cat__CITY_x_Mansfield,0.0
+cat__CITY_x_Marblehead,0.0
+cat__CITY_x_Marlborough,0.0
+cat__CITY_x_Marysville,0.0
+cat__CITY_x_Mathews,0.0
+cat__CITY_x_McCrory,0.0
+cat__CITY_x_McKinleyville,0.0
+cat__CITY_x_Medford,0.0
+cat__CITY_x_Medway,0.0
+cat__CITY_x_Melbourne Beach,0.0
+cat__CITY_x_Melrose,0.0
+cat__CITY_x_Merrimac,0.0
+cat__CITY_x_Merritt Island,0.0
+cat__CITY_x_Mesa,0.0
+cat__CITY_x_Methuen,0.0
+cat__CITY_x_Mexico Beach,0.0
+cat__CITY_x_Middleborough,0.0
+cat__CITY_x_Middlebury,0.0
+cat__CITY_x_Oakhurst,0.0
+cat__CITY_x_Odenton,0.0
+cat__CITY_x_Los Angeles,0.0
+cat__CITY_x_Randolph,0.0
+cat__CITY_x_Readsboro,0.0
+cat__CITY_x_Redlands,0.0
+cat__CITY_x_Revere,0.0
+cat__CITY_x_Richford,0.0
+cat__CITY_x_Richmond,0.0
+cat__CITY_x_Riva,0.0
+cat__CITY_x_Riverview,0.0
+cat__CITY_x_Rohnert Park,0.0
+cat__CITY_x_Roseville,0.0
+cat__CITY_x_Linthicum Heights,0.0
+cat__CITY_x_Sacramento,0.0
+cat__CITY_x_Saint Albans Town,0.0
+cat__CITY_x_Saint Johnsbury,0.0
+cat__CITY_x_Saint Matthews,0.0
+cat__CITY_x_Salem,0.0
+cat__CITY_x_Salinas,0.0
+cat__CITY_x_Salisbury,0.0
+cat__CITY_x_San Diego,0.0
+cat__CITY_x_San Gabriel,0.0
+cat__CITY_x_San Luis Obispo,0.0
+cat__CITY_x_Santa Clara,0.0
+cat__CITY_x_Santa Cruz,0.0
+cat__CITY_x_Santa Rosa,0.0
+cat__CITY_x_Saugus,0.0
+cat__CITY_x_Sebastopol,0.0
+cat__CITY_x_Reading,0.0
+cat__CITY_x_Rancho Palos Verdes,0.0
+cat__CITY_x_Olivehurst,0.0
+cat__CITY_x_Rancho Cordova,0.0
+cat__CITY_x_Orange,0.0
+cat__CITY_x_Oroville,0.0
+cat__CITY_x_Palm Bay,0.0
+cat__CITY_x_Longmeadow,0.0
+cat__CITY_x_Pasadena,0.0
+cat__CITY_x_Paso Robles,0.0
+cat__CITY_x_Pawlet,0.0
+cat__CITY_x_Pelham,0.0
+cat__CITY_x_Piedmont,0.0
+cat__CITY_x_Pioneer,0.0
+cat__CITY_x_Pismo Beach,0.0
+cat__CITY_x_Pittsfield,0.0
+cat__CITY_x_Pittsford,0.0
+cat__CITY_x_Plantation,0.0
+cat__CITY_x_Pleasanton,0.0
+cat__CITY_x_Plymouth,0.0
+cat__CITY_x_Port Charlotte,0.0
+cat__CITY_x_Port Wentworth,0.0
+cat__CITY_x_Poultney,0.0
+cat__CITY_x_Proctor,0.0
+cat__CITY_x_Prospect,0.0
+cat__CITY_x_Pueblo,0.0
+cat__CITY_x_Pueblo West,0.0
+cat__CITY_x_Punta Gorda,0.0
+cat__CITY_x_Quincy,0.0
+cat__CITY_x_Garden City,0.0
+cat__CITY_x_Fruita,0.0
+cat__INCIDENT_CITY_Pittsford,0.0
+cat__INCIDENT_CITY_Mansfield,0.0
+cat__CITY_x_Evergreen,0.0
+cat__INCIDENT_CITY_Lowell,0.0
+cat__INCIDENT_CITY_Ludlow,0.0
+cat__INCIDENT_CITY_Lunenburg,0.0
+cat__INCIDENT_CITY_Lyndon,0.0
+cat__INCIDENT_CITY_Lynn,0.0
+cat__INCIDENT_CITY_Lynnfield,0.0
+cat__INCIDENT_CITY_Madera,0.0
+cat__CITY_x_Everett,0.0
+cat__INCIDENT_CITY_Maidstone,0.0
+cat__INCIDENT_CITY_Mammoth Lakes,0.0
+cat__CITY_x_Evans,0.0
+cat__INCIDENT_CITY_Marblehead,0.0
+cat__INCIDENT_CITY_Mexico Beach,0.0
+cat__INCIDENT_CITY_Marlborough,0.0
+cat__INCIDENT_CITY_Marshfield,0.0
+cat__INCIDENT_CITY_Marysville,0.0
+cat__INCIDENT_CITY_Mathews,0.0
+cat__INCIDENT_CITY_McCrory,0.0
+cat__CITY_x_Eureka,0.0
+cat__INCIDENT_CITY_Medway,0.0
+cat__INCIDENT_CITY_Melbourne Beach,0.0
+cat__INCIDENT_CITY_Melrose,0.0
+cat__INCIDENT_CITY_Merrimac,0.0
+cat__INCIDENT_CITY_Merritt Island,0.0
+cat__INCIDENT_CITY_Mesa,0.0
+cat__INCIDENT_CITY_Longmeadow,0.0
+cat__CITY_x_Fair Haven,0.0
+cat__INCIDENT_CITY_Littleton,0.0
+cat__INCIDENT_CITY_Lithia,0.0
+cat__CITY_x_Fairfield,0.0
+cat__INCIDENT_CITY_Hartland,0.0
+cat__INCIDENT_CITY_Harwood,0.0
+cat__INCIDENT_CITY_Haverhill,0.0
+cat__INCIDENT_CITY_Hesperia,0.0
+cat__INCIDENT_CITY_Highgate,0.0
+cat__INCIDENT_CITY_Hinesburg,0.0
+cat__INCIDENT_CITY_Hingham,0.0
+cat__INCIDENT_CITY_Holbrook,0.0
+cat__INCIDENT_CITY_Holden,0.0
+cat__INCIDENT_CITY_Homer,0.0
+cat__INCIDENT_CITY_Hubbardston,0.0
+cat__INCIDENT_CITY_Huntington,0.0
+cat__INCIDENT_CITY_Hurstbourne Acres,0.0
+cat__INCIDENT_CITY_Indian Springs Village,0.0
+cat__INCIDENT_CITY_Inverness,0.0
+cat__INCIDENT_CITY_Jeffersontown,0.0
+cat__INCIDENT_CITY_Jessup,0.0
+cat__INCIDENT_CITY_King City,0.0
+cat__INCIDENT_CITY_Laurel,0.0
+cat__INCIDENT_CITY_Lawrence,0.0
+cat__CITY_x_Fairfax,0.0
+cat__INCIDENT_CITY_Linda,0.0
+cat__INCIDENT_CITY_Linthicum Heights,0.0
+cat__INCIDENT_CITY_Litchfield Park,0.0
+cat__INCIDENT_CITY_Methuen,0.0
+cat__INCIDENT_CITY_Middlebury,0.0
+cat__CITY_x_Fresno,0.0
+cat__INCIDENT_CITY_Palm Bay,0.0
+cat__INCIDENT_CITY_North Reading,0.0
+cat__INCIDENT_CITY_Northfield,0.0
+cat__INCIDENT_CITY_Norton,0.0
+cat__INCIDENT_CITY_Norwood,0.0
+cat__INCIDENT_CITY_O'Neals,0.0
+cat__INCIDENT_CITY_Oak Bluffs,0.0
+cat__INCIDENT_CITY_Oakhurst,0.0
+cat__INCIDENT_CITY_Odenton,0.0
+cat__INCIDENT_CITY_Olivehurst,0.0
+cat__INCIDENT_CITY_Orange,0.0
+cat__INCIDENT_CITY_Oroville,0.0
+cat__INCIDENT_CITY_Palisade,0.0
+cat__INCIDENT_CITY_Palmer,0.0
+cat__INCIDENT_CITY_Middleton,0.0
+cat__CITY_x_Easton,0.0
+cat__CITY_x_Easthampton,0.0
+cat__INCIDENT_CITY_Paso Robles,0.0
+cat__INCIDENT_CITY_Pawlet,0.0
+cat__INCIDENT_CITY_Peabody,0.0
+cat__INCIDENT_CITY_Pelham,0.0
+cat__INCIDENT_CITY_Peoria,0.0
+cat__INCIDENT_CITY_Piedmont,0.0
+cat__INCIDENT_CITY_Pike Road,0.0
+cat__INCIDENT_CITY_Pioneer,0.0
+cat__INCIDENT_CITY_Pismo Beach,0.0
+cat__INCIDENT_CITY_Pittsfield,0.0
+cat__INCIDENT_CITY_North Little Rock,0.0
+cat__INCIDENT_CITY_North Beach,0.0
+cat__INCIDENT_CITY_North Adams,0.0
+cat__INCIDENT_CITY_Nolensville,0.0
+cat__INCIDENT_CITY_Midwest City,0.0
+cat__INCIDENT_CITY_Milford,0.0
+cat__CITY_x_Essex,0.0
+cat__INCIDENT_CITY_Millis,0.0
+cat__INCIDENT_CITY_Milton,0.0
+cat__INCIDENT_CITY_Monte Rio,0.0
+cat__INCIDENT_CITY_Montevallo,0.0
+cat__CITY_x_Escondido,0.0
+cat__INCIDENT_CITY_Montpelier,0.0
+cat__CITY_x_Elk Grove,0.0
+cat__INCIDENT_CITY_Moretown,0.0
+cat__INCIDENT_CITY_Morristown,0.0
+cat__INCIDENT_CITY_Morro Bay,0.0
+cat__INCIDENT_CITY_Mount Juliet,0.0
+cat__INCIDENT_CITY_Mount Tabor,0.0
+cat__INCIDENT_CITY_Mountain View,0.0
+cat__CITY_x_El Cerrito,0.0
+cat__INCIDENT_CITY_Needham,0.0
+cat__INCIDENT_CITY_New Bedford,0.0
+cat__INCIDENT_CITY_New Haven,0.0
+cat__INCIDENT_CITY_Newark,0.0
+cat__INCIDENT_CITY_Newfane,0.0
+cat__CITY_x_Lunenburg,0.0
+cat__INCIDENT_CITY_Nichols Hills,0.0
+cat__INCIDENT_CITY_Noble,0.0
+cat__INCIDENT_CITY_Harrah,0.0
+cat__INCIDENT_CITY_Hardwick,0.0
+cat__INCIDENT_CITY_Hanover,0.0
+cat__INCIDENT_CITY_Calera,0.0
+cat__INCIDENT_CITY_Bloomingdale,0.0
+cat__INCIDENT_CITY_Blue Lake,0.0
+cat__INCIDENT_CITY_Boxford,0.0
+cat__INCIDENT_CITY_Braintree,0.0
+cat__INCIDENT_CITY_Brighton,0.0
+cat__INCIDENT_CITY_Brimfield,0.0
+cat__INCIDENT_CITY_Bristol,0.0
+cat__INCIDENT_CITY_Brockton,0.0
+cat__CITY_x_Fortuna,0.0
+cat__INCIDENT_CITY_Brooklyn Park,0.0
+cat__CITY_x_Fort Collins,0.0
+cat__INCIDENT_CITY_Burlington,0.0
+cat__INCIDENT_CITY_Calhoun,0.0
+cat__INCIDENT_CITY_Hanford,0.0
+cat__INCIDENT_CITY_Capitola,0.0
+cat__INCIDENT_CITY_Carlsbad,0.0
+cat__INCIDENT_CITY_Castleton,0.0
+cat__INCIDENT_CITY_Charlotte,0.0
+cat__INCIDENT_CITY_Charlton,0.0
+cat__INCIDENT_CITY_Chelmsford,0.0
+cat__INCIDENT_CITY_Chelsea,0.0
+cat__INCIDENT_CITY_Chester,0.0
+cat__INCIDENT_CITY_Chico,0.0
+cat__INCIDENT_CITY_Chicopee,0.0
+cat__INCIDENT_CITY_Choctaw,0.0
+cat__INCIDENT_CITY_Concord,0.0
+cat__INCIDENT_CITY_Birmingham,0.0
+cat__INCIDENT_CITY_Billerica,0.0
+cat__INCIDENT_CITY_Beverly Hills,0.0
+cat__INCIDENT_CITY_Beverly,0.0
+cat__CITY_x_Freetown,0.0
+cat__INCIDENT_CITY_Agawam,0.0
+cat__INCIDENT_CITY_Alburgh,0.0
+cat__INCIDENT_CITY_Antioch,0.0
+cat__INCIDENT_CITY_Aptos,0.0
+cat__INCIDENT_CITY_Ardmore,0.0
+cat__INCIDENT_CITY_Arlington,0.0
+cat__INCIDENT_CITY_Arnold,0.0
+cat__CITY_x_Framingham,0.0
+cat__INCIDENT_CITY_Ashland,0.0
+cat__INCIDENT_CITY_Ashland City,0.0
+cat__INCIDENT_CITY_Aspen,0.0
+cat__CITY_x_Foxborough,0.0
+cat__INCIDENT_CITY_Athol,0.0
+cat__INCIDENT_CITY_Attleboro,0.0
+cat__INCIDENT_CITY_Auburn,0.0
+cat__INCIDENT_CITY_Aurora,0.0
+cat__INCIDENT_CITY_Bakersfield,0.0
+cat__INCIDENT_CITY_Baldwin Park,0.0
+cat__INCIDENT_CITY_Barnard,0.0
+cat__INCIDENT_CITY_Barnstable,0.0
+cat__CITY_x_Fountain,0.0
+cat__INCIDENT_CITY_Belchertown,0.0
+cat__INCIDENT_CITY_Bethany,0.0
+cat__INCIDENT_CITY_Bethel,0.0
+cat__INCIDENT_CITY_Conway,0.0
+cat__CITY_x_Foresthill,0.0
+cat__INCIDENT_CITY_Crownsville,0.0
+cat__INCIDENT_CITY_Fitchburg,0.0
+cat__INCIDENT_CITY_Fortuna,0.0
+cat__INCIDENT_CITY_Fountain,0.0
+cat__INCIDENT_CITY_Foxborough,0.0
+cat__INCIDENT_CITY_Framingham,0.0
+cat__INCIDENT_CITY_Freetown,0.0
+cat__INCIDENT_CITY_Fresno,0.0
+cat__INCIDENT_CITY_Gambrills,0.0
+cat__INCIDENT_CITY_Garden City,0.0
+cat__INCIDENT_CITY_Gardena,0.0
+cat__INCIDENT_CITY_Gardner,0.0
+cat__CITY_x_Farmington,0.0
+cat__CITY_x_Fall River,0.0
+cat__INCIDENT_CITY_Gloucester,0.0
+cat__INCIDENT_CITY_Golden,0.0
+cat__INCIDENT_CITY_Goodlettsville,0.0
+cat__INCIDENT_CITY_Grand Junction,0.0
+cat__INCIDENT_CITY_Grass Valley,0.0
+cat__INCIDENT_CITY_Greeley,0.0
+cat__INCIDENT_CITY_Greenfield,0.0
+cat__INCIDENT_CITY_Greensboro,0.0
+cat__INCIDENT_CITY_Groton,0.0
+cat__CITY_x_Fairlee,0.0
+cat__INCIDENT_CITY_Guilford,0.0
+cat__INCIDENT_CITY_Guthrie,0.0
+cat__INCIDENT_CITY_Hadley,0.0
+cat__INCIDENT_CITY_Fort Collins,0.0
+cat__INCIDENT_CITY_Farmington,0.0
+cat__INCIDENT_CITY_Danville,0.0
+cat__INCIDENT_CITY_Falmouth,0.0
+cat__INCIDENT_CITY_Dartmouth,0.0
+cat__INCIDENT_CITY_Davidsonville,0.0
+cat__INCIDENT_CITY_Davis,0.0
+cat__INCIDENT_CITY_Dedham,0.0
+cat__INCIDENT_CITY_Del City,0.0
+cat__INCIDENT_CITY_Dennis,0.0
+cat__INCIDENT_CITY_Derby,0.0
+cat__INCIDENT_CITY_Dracut,0.0
+cat__INCIDENT_CITY_Dublin,0.0
+cat__INCIDENT_CITY_Dummerston,0.0
+cat__INCIDENT_CITY_Duxbury,0.0
+cat__INCIDENT_CITY_East Longmeadow,0.0
+cat__INCIDENT_CITY_Easton,0.0
+cat__INCIDENT_CITY_Edgewater,0.0
+cat__INCIDENT_CITY_El Cerrito,0.0
+cat__CITY_x_Fitchburg,0.0
+cat__INCIDENT_CITY_Escondido,0.0
+cat__INCIDENT_CITY_Essex,0.0
+cat__INCIDENT_CITY_Eureka,0.0
+cat__INCIDENT_CITY_Evergreen,0.0
+cat__INCIDENT_CITY_Fair Haven,0.0
+cat__INCIDENT_CITY_Fairfax,0.0
+cat__INCIDENT_CITY_Fairfield,0.0
+cat__INCIDENT_CITY_Fairlee,0.0
+cat__INCIDENT_CITY_Fall River,0.0
+cat__INCIDENT_CITY_Newport,0.0
