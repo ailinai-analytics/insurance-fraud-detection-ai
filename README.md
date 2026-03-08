@@ -128,6 +128,16 @@ A Streamlit dashboard was developed to visualize fraud risk insights.
 The SHAP summary plot explains how different features influence fraud predictions.
 Features at the top have the strongest impact on the model output.
 Points to the right increase fraud risk, while points to the left reduce fraud risk.
+---
+
+## Top Suspicious Claims Output
+
+The model produces a ranked list of high-risk claims that investigators should review first.
+
+Download the full results:
+
+[Top Suspicious Claims Dataset](images/top_suspicious_claims.csv)
+
 
 ---
 Run the dashboard:
