@@ -99,13 +99,23 @@ Claims with higher risk scores can be prioritized for investigation.
 
 # Dashboard
 
-A **Streamlit dashboard** was developed to visualize:
+A Streamlit dashboard was developed to visualize fraud risk insights.
 
-• fraud risk score distribution  
-• top suspicious claims  
-• feature importance  
-• model prediction summary
+## Dashboard Overview
 
+![Dashboard](images/dashboard_overview.png)
+
+## Fraud Risk Distribution
+
+![Fraud Distribution](images/fraud_risk_distribution.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+## SHAP Explainability
+
+![SHAP](images/shap_summary.png)
 Run the dashboard:
 
 ```bash
