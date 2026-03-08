@@ -97,6 +97,8 @@ Claims with higher risk scores can be prioritized for investigation.
 
 ---
 
+---
+
 # Dashboard
 
 A Streamlit dashboard was developed to visualize fraud risk insights.
@@ -105,17 +107,29 @@ A Streamlit dashboard was developed to visualize fraud risk insights.
 
 ![Dashboard](images/dashboard_overview.png)
 
-## Fraud Risk Distribution
+---
+
+## Fraud Risk Score Distribution
 
 ![Fraud Distribution](images/fraud_risk_distribution.png)
+
+---
 
 ## Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
 
-## SHAP Explainability
+---
 
-![SHAP](images/shap_summary.png)
+## Model Explainability (SHAP)
+
+![SHAP Summary](images/shap_summary.png)
+
+The SHAP summary plot explains how different features influence fraud predictions.
+Features at the top have the strongest impact on the model output.
+Points to the right increase fraud risk, while points to the left reduce fraud risk.
+
+---
 Run the dashboard:
 
 ```bash
